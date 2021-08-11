@@ -1,4 +1,4 @@
-### Hello world, eu sou o Carlos A. Julio Jr. 👋
+### Hello world, eu sou o Carlos Julio Jr. !!
 
 - 🔭 Estou em busca de um emprego como inicante na área de desenvolvimento
 - 🌱 Estudando CS50x course, Python and SQL ...
