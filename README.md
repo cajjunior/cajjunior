@@ -1,8 +1,8 @@
-### Hello world, eu sou o Carlos Julio Jr. !!
+### Hello world, eu sou o Carlos Julio Jr.!!
 
-- 🔭 Estou em busca de um emprego como inicante na área de desenvolvimento
+- 🔭 Estou em busca de emprego como inicante na área de desenvolvimento
 - 🌱 Estudando CS50x course, Python and SQL ...
-- 🤔 Busco projetos para colaborar e aprender
+- 🤔 Sou novo por aqui, busco projetos para colaborar e aprender
 
 
 
@@ -23,5 +23,3 @@
   <div> 
   <a href = "mailto:junior.du3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlosalbertojuliojunior" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  
