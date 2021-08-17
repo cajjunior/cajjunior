@@ -3,7 +3,7 @@
 - 🔭 Estou em busca de emprego como inicante na área de desenvolvimento
 - 🌱 Estudando CS50x course, Python and SQL ...
 - 🤔 Sou novo por aqui, busco projetos para colaborar e aprender
-- 
+
 <div>
   <a href="https://github.com/cajjunior">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cajjunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
