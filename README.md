@@ -16,6 +16,7 @@
   <img align="center" alt="Jr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jr-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jr-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Jr-senna" height="150" src="https://images.squarespace-cdn.com/content/v1/59b698c9a8b2b050d1f409d9/1505163361904-46K49C4XF44G9QD5DXED/portrait-senna.png?format=1500w">
 
 </div>
 
