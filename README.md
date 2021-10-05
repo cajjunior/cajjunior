@@ -1,7 +1,7 @@
 ### Hello world, eu sou o Carlos A. Julio Jr.!!
 
 - 🔭 Estou em busca de emprego como inicante na área de desenvolvimento
-- 🌱 Estudando CS50x course, Python, JS, HTML, CSS, C#, mySQL, NodeJs ...
+- 🌱 Cursando o CS50x, estudando JS, HTML, CSS, Python, C#, mySQL, NodeJs ...
 - 🤔 Sou novo por aqui, busco projetos para colaborar e aprender
 
 <div>
