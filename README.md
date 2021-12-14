@@ -1,6 +1,6 @@
 ### Hello world, eu sou o Carlos A. Julio Jr.!!
 
-- 🔭 Estou em busca de uma oportunidade de emprego como inicante na área de programação.
+- 🔭 Estou em busca de uma oportunidade de emprego como iniciante na área de programação.
 - 🌱 Cursando o CS50x de Harvard e BootCamp de Ciência de Dados na Alura.
 - 🤔 Sou novo por aqui, busco projetos para colaborar e aprender. Estudando JS, HTML, CSS, Python, C#, SQL, NodeJs, Jinja, Flask.
 
